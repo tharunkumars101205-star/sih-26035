@@ -1,0 +1,6 @@
+{
+  "name": "METRALAB - Digital NAWI Testing & Report Platform",
+  "description": "Precision Testing, Digital Traceability & OIML R 76 Standardized Report Generation for Non-Automatic Weighing Instruments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
